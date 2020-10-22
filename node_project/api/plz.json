@@ -1,0 +1,1518 @@
+[
+  {
+    "PLZ": 1067,
+    "Stadt": "Dresden"
+  },
+  {
+    "PLZ": 1445,
+    "Stadt": "Meißen"
+  },
+  {
+    "PLZ": 1454,
+    "Stadt": "Bautzen"
+  },
+  {
+    "PLZ": 1705,
+    "Stadt": "Sächsische Schweiz-Osterzgebirge"
+  },
+  {
+    "PLZ": 1945,
+    "Stadt": "Oberspreewald-Lausitz"
+  },
+  {
+    "PLZ": 2708,
+    "Stadt": "Görlitz"
+  },
+  {
+    "PLZ": 3042,
+    "Stadt": "Cottbus"
+  },
+  {
+    "PLZ": 3058,
+    "Stadt": "Spree-Neiße"
+  },
+  {
+    "PLZ": 3238,
+    "Stadt": "Elbe-Elster"
+  },
+  {
+    "PLZ": 4103,
+    "Stadt": "Leipzig"
+  },
+  {
+    "PLZ": 4425,
+    "Stadt": "Nordsachsen"
+  },
+  {
+    "PLZ": 4600,
+    "Stadt": "Altenburger Land"
+  },
+  {
+    "PLZ": 4703,
+    "Stadt": "Mittelsachsen"
+  },
+  {
+    "PLZ": 6108,
+    "Stadt": "Halle Saale"
+  },
+  {
+    "PLZ": 6179,
+    "Stadt": "Saalekreis"
+  },
+  {
+    "PLZ": 6295,
+    "Stadt": "Mansfeld-Südharz"
+  },
+  {
+    "PLZ": 6366,
+    "Stadt": "Anhalt-Bitterfeld"
+  },
+  {
+    "PLZ": 6406,
+    "Stadt": "Salzlandkreis"
+  },
+  {
+    "PLZ": 6458,
+    "Stadt": "Harz"
+  },
+  {
+    "PLZ": 6556,
+    "Stadt": "Kyffhäuserkreis"
+  },
+  {
+    "PLZ": 6618,
+    "Stadt": "Burgenlandkreis"
+  },
+  {
+    "PLZ": 6772,
+    "Stadt": "Wittenberg"
+  },
+  {
+    "PLZ": 6842,
+    "Stadt": "Dessau-Roßlau"
+  },
+  {
+    "PLZ": 7318,
+    "Stadt": "Saalfeld-Rudolstadt"
+  },
+  {
+    "PLZ": 7343,
+    "Stadt": "Saale-Orla-Kreis"
+  },
+  {
+    "PLZ": 7545,
+    "Stadt": "Gera"
+  },
+  {
+    "PLZ": 7554,
+    "Stadt": "Greiz"
+  },
+  {
+    "PLZ": 7607,
+    "Stadt": "Saale-Holzland-Kreis"
+  },
+  {
+    "PLZ": 7743,
+    "Stadt": "Jena"
+  },
+  {
+    "PLZ": 8056,
+    "Stadt": "Zwickau"
+  },
+  {
+    "PLZ": 8209,
+    "Stadt": "Vogtlandkreis"
+  },
+  {
+    "PLZ": 8280,
+    "Stadt": "Erzgebirgskreis"
+  },
+  {
+    "PLZ": 9111,
+    "Stadt": "Chemnitz"
+  },
+  {
+    "PLZ": 10115,
+    "Stadt": "Berlin"
+  },
+  {
+    "PLZ": 14467,
+    "Stadt": "Potsdam"
+  },
+  {
+    "PLZ": 14476,
+    "Stadt": "Potsdam-Mittelmark"
+  },
+  {
+    "PLZ": 14612,
+    "Stadt": "Havelland"
+  },
+  {
+    "PLZ": 14770,
+    "Stadt": "Brandenburg an der Havel"
+  },
+  {
+    "PLZ": 14913,
+    "Stadt": "Teltow-Fläming"
+  },
+  {
+    "PLZ": 15230,
+    "Stadt": "Frankfurt Oder"
+  },
+  {
+    "PLZ": 15295,
+    "Stadt": "Oder-Spree"
+  },
+  {
+    "PLZ": 15306,
+    "Stadt": "Märkisch-Oderland"
+  },
+  {
+    "PLZ": 15537,
+    "Stadt": "Dahme-Spreewald"
+  },
+  {
+    "PLZ": 16225,
+    "Stadt": "Barnim"
+  },
+  {
+    "PLZ": 16278,
+    "Stadt": "Uckermark"
+  },
+  {
+    "PLZ": 16515,
+    "Stadt": "Oberhavel"
+  },
+  {
+    "PLZ": 16816,
+    "Stadt": "Ostprignitz-Ruppin"
+  },
+  {
+    "PLZ": 16928,
+    "Stadt": "Prignitz"
+  },
+  {
+    "PLZ": 17033,
+    "Stadt": "Mecklenburgische Seenplatte"
+  },
+  {
+    "PLZ": 17121,
+    "Stadt": "Vorpommern-Greifswald"
+  },
+  {
+    "PLZ": 17166,
+    "Stadt": "Rostock"
+  },
+  {
+    "PLZ": 18311,
+    "Stadt": "Vorpommern-Rügen"
+  },
+  {
+    "PLZ": 19053,
+    "Stadt": "Schwerin"
+  },
+  {
+    "PLZ": 19065,
+    "Stadt": "Ludwigslust-Parchim"
+  },
+  {
+    "PLZ": 19069,
+    "Stadt": "Nordwestmecklenburg"
+  },
+  {
+    "PLZ": 20095,
+    "Stadt": "Hamburg"
+  },
+  {
+    "PLZ": 21217,
+    "Stadt": "Harburg"
+  },
+  {
+    "PLZ": 21335,
+    "Stadt": "Lüneburg"
+  },
+  {
+    "PLZ": 21465,
+    "Stadt": "Herzogtum Lauenburg"
+  },
+  {
+    "PLZ": 21509,
+    "Stadt": "Stormarn"
+  },
+  {
+    "PLZ": 21614,
+    "Stadt": "Stade"
+  },
+  {
+    "PLZ": 21745,
+    "Stadt": "Cuxhaven"
+  },
+  {
+    "PLZ": 22844,
+    "Stadt": "Segeberg"
+  },
+  {
+    "PLZ": 22869,
+    "Stadt": "Pinneberg"
+  },
+  {
+    "PLZ": 23552,
+    "Stadt": "Lübeck"
+  },
+  {
+    "PLZ": 23611,
+    "Stadt": "Ostholstein"
+  },
+  {
+    "PLZ": 24103,
+    "Stadt": "Kiel"
+  },
+  {
+    "PLZ": 24119,
+    "Stadt": "Rendsburg-Eckernförde"
+  },
+  {
+    "PLZ": 24211,
+    "Stadt": "Plön"
+  },
+  {
+    "PLZ": 24376,
+    "Stadt": "Schleswig-Flensburg"
+  },
+  {
+    "PLZ": 24534,
+    "Stadt": "Neumünster"
+  },
+  {
+    "PLZ": 24937,
+    "Stadt": "Flensburg"
+  },
+  {
+    "PLZ": 25348,
+    "Stadt": "Steinburg"
+  },
+  {
+    "PLZ": 25541,
+    "Stadt": "Dithmarschen"
+  },
+  {
+    "PLZ": 25813,
+    "Stadt": "Nordfriesland"
+  },
+  {
+    "PLZ": 26121,
+    "Stadt": "Oldenburg"
+  },
+  {
+    "PLZ": 26160,
+    "Stadt": "Ammerland"
+  },
+  {
+    "PLZ": 26169,
+    "Stadt": "Cloppenburg"
+  },
+  {
+    "PLZ": 26316,
+    "Stadt": "Friesland"
+  },
+  {
+    "PLZ": 26349,
+    "Stadt": "Wesermarsch"
+  },
+  {
+    "PLZ": 26382,
+    "Stadt": "Wilhelmshaven"
+  },
+  {
+    "PLZ": 26409,
+    "Stadt": "Wittmund"
+  },
+  {
+    "PLZ": 26506,
+    "Stadt": "Aurich"
+  },
+  {
+    "PLZ": 26670,
+    "Stadt": "Leer"
+  },
+  {
+    "PLZ": 26721,
+    "Stadt": "Emden"
+  },
+  {
+    "PLZ": 26871,
+    "Stadt": "Emsland"
+  },
+  {
+    "PLZ": 27211,
+    "Stadt": "Diepholz"
+  },
+  {
+    "PLZ": 27283,
+    "Stadt": "Verden"
+  },
+  {
+    "PLZ": 27318,
+    "Stadt": "Nienburg_Weser"
+  },
+  {
+    "PLZ": 27336,
+    "Stadt": "Heidekreis"
+  },
+  {
+    "PLZ": 27356,
+    "Stadt": "Rotenburg Wümme"
+  },
+  {
+    "PLZ": 27568,
+    "Stadt": "Bremerhaven"
+  },
+  {
+    "PLZ": 27711,
+    "Stadt": "Osterholz"
+  },
+  {
+    "PLZ": 27749,
+    "Stadt": "Delmenhorst"
+  },
+  {
+    "PLZ": 28195,
+    "Stadt": "Bremen"
+  },
+  {
+    "PLZ": 29221,
+    "Stadt": "Celle"
+  },
+  {
+    "PLZ": 29365,
+    "Stadt": "Gifhorn"
+  },
+  {
+    "PLZ": 29389,
+    "Stadt": "Uelzen"
+  },
+  {
+    "PLZ": 29410,
+    "Stadt": "Altmarkkreis Salzwedel"
+  },
+  {
+    "PLZ": 29439,
+    "Stadt": "Lüchow-Dannenberg"
+  },
+  {
+    "PLZ": 30159,
+    "Stadt": "Hannover"
+  },
+  {
+    "PLZ": 31008,
+    "Stadt": "Hildesheim"
+  },
+  {
+    "PLZ": 31020,
+    "Stadt": "Hameln-Pyrmont"
+  },
+  {
+    "PLZ": 31073,
+    "Stadt": "Holzminden"
+  },
+  {
+    "PLZ": 31224,
+    "Stadt": "Peine"
+  },
+  {
+    "PLZ": 31542,
+    "Stadt": "Schaumburg"
+  },
+  {
+    "PLZ": 32049,
+    "Stadt": "Herford"
+  },
+  {
+    "PLZ": 32105,
+    "Stadt": "Lippe"
+  },
+  {
+    "PLZ": 32312,
+    "Stadt": "Minden-Lübbecke"
+  },
+  {
+    "PLZ": 32839,
+    "Stadt": "Höxter"
+  },
+  {
+    "PLZ": 33098,
+    "Stadt": "Paderborn"
+  },
+  {
+    "PLZ": 33330,
+    "Stadt": "Gütersloh"
+  },
+  {
+    "PLZ": 33602,
+    "Stadt": "Bielefeld"
+  },
+  {
+    "PLZ": 34117,
+    "Stadt": "Kassel"
+  },
+  {
+    "PLZ": 34212,
+    "Stadt": "Schwalm-Eder-Kreis"
+  },
+  {
+    "PLZ": 34346,
+    "Stadt": "Göttingen"
+  },
+  {
+    "PLZ": 34431,
+    "Stadt": "Hochsauerlandkreis"
+  },
+  {
+    "PLZ": 34454,
+    "Stadt": "Waldeck-Frankenberg"
+  },
+  {
+    "PLZ": 35037,
+    "Stadt": "Marburg-Biedenkopf"
+  },
+  {
+    "PLZ": 35305,
+    "Stadt": "Gießen"
+  },
+  {
+    "PLZ": 35315,
+    "Stadt": "Vogelsbergkreis"
+  },
+  {
+    "PLZ": 35510,
+    "Stadt": "Wetteraukreis"
+  },
+  {
+    "PLZ": 35576,
+    "Stadt": "Lahn-Dill-Kreis"
+  },
+  {
+    "PLZ": 35781,
+    "Stadt": "Limburg-Weilburg"
+  },
+  {
+    "PLZ": 36037,
+    "Stadt": "Fulda"
+  },
+  {
+    "PLZ": 36166,
+    "Stadt": "Hersfeld-Rotenburg"
+  },
+  {
+    "PLZ": 36205,
+    "Stadt": "Werra-Meißner-Kreis"
+  },
+  {
+    "PLZ": 36381,
+    "Stadt": "Main-Kinzig-Kreis"
+  },
+  {
+    "PLZ": 36404,
+    "Stadt": "Wartburgkreis"
+  },
+  {
+    "PLZ": 37154,
+    "Stadt": "Northeim"
+  },
+  {
+    "PLZ": 37197,
+    "Stadt": "Osterode am Harz"
+  },
+  {
+    "PLZ": 37308,
+    "Stadt": "Eichsfeld"
+  },
+  {
+    "PLZ": 37444,
+    "Stadt": "Goslar"
+  },
+  {
+    "PLZ": 38100,
+    "Stadt": "Braunschweig"
+  },
+  {
+    "PLZ": 38154,
+    "Stadt": "Helmstedt"
+  },
+  {
+    "PLZ": 38162,
+    "Stadt": "Wolfenbüttel"
+  },
+  {
+    "PLZ": 38226,
+    "Stadt": "Salzgitter"
+  },
+  {
+    "PLZ": 38440,
+    "Stadt": "Wolfsburg"
+  },
+  {
+    "PLZ": 39104,
+    "Stadt": "Magdeburg"
+  },
+  {
+    "PLZ": 39164,
+    "Stadt": "Börde"
+  },
+  {
+    "PLZ": 39175,
+    "Stadt": "Jerichower Land"
+  },
+  {
+    "PLZ": 39539,
+    "Stadt": "Stendal"
+  },
+  {
+    "PLZ": 40210,
+    "Stadt": "Düsseldorf"
+  },
+  {
+    "PLZ": 40667,
+    "Stadt": "Rhein-Kreis Neuss"
+  },
+  {
+    "PLZ": 40699,
+    "Stadt": "Mettmann"
+  },
+  {
+    "PLZ": 41061,
+    "Stadt": "Mönchengladbach"
+  },
+  {
+    "PLZ": 41334,
+    "Stadt": "Viersen"
+  },
+  {
+    "PLZ": 41812,
+    "Stadt": "Heinsberg"
+  },
+  {
+    "PLZ": 42103,
+    "Stadt": "Wuppertal"
+  },
+  {
+    "PLZ": 42477,
+    "Stadt": "Oberbergischer Kreis"
+  },
+  {
+    "PLZ": 42651,
+    "Stadt": "Solingen"
+  },
+  {
+    "PLZ": 42799,
+    "Stadt": "Rheinisch-Bergischer Kreis"
+  },
+  {
+    "PLZ": 42853,
+    "Stadt": "Remscheid"
+  },
+  {
+    "PLZ": 44135,
+    "Stadt": "Dortmund"
+  },
+  {
+    "PLZ": 44532,
+    "Stadt": "Unna"
+  },
+  {
+    "PLZ": 44575,
+    "Stadt": "Recklinghausen"
+  },
+  {
+    "PLZ": 44623,
+    "Stadt": "Herne"
+  },
+  {
+    "PLZ": 44787,
+    "Stadt": "Bochum"
+  },
+  {
+    "PLZ": 45127,
+    "Stadt": "Essen"
+  },
+  {
+    "PLZ": 45468,
+    "Stadt": "Mülheim an der Ruhr"
+  },
+  {
+    "PLZ": 45525,
+    "Stadt": "Ennepe-Ruhr-Kreis"
+  },
+  {
+    "PLZ": 45879,
+    "Stadt": "Gelsenkirchen"
+  },
+  {
+    "PLZ": 46045,
+    "Stadt": "Oberhausen"
+  },
+  {
+    "PLZ": 46236,
+    "Stadt": "Bottrop"
+  },
+  {
+    "PLZ": 46325,
+    "Stadt": "Borken"
+  },
+  {
+    "PLZ": 46446,
+    "Stadt": "Kleve"
+  },
+  {
+    "PLZ": 46483,
+    "Stadt": "Wesel"
+  },
+  {
+    "PLZ": 47051,
+    "Stadt": "Duisburg"
+  },
+  {
+    "PLZ": 47798,
+    "Stadt": "Krefeld"
+  },
+  {
+    "PLZ": 48143,
+    "Stadt": "Münster"
+  },
+  {
+    "PLZ": 48231,
+    "Stadt": "Warendorf"
+  },
+  {
+    "PLZ": 48249,
+    "Stadt": "Coesfeld"
+  },
+  {
+    "PLZ": 48268,
+    "Stadt": "Steinfurt"
+  },
+  {
+    "PLZ": 48455,
+    "Stadt": "Grafschaft Bentheim"
+  },
+  {
+    "PLZ": 49074,
+    "Stadt": "Osnabrück"
+  },
+  {
+    "PLZ": 49377,
+    "Stadt": "Vechta"
+  },
+  {
+    "PLZ": 50126,
+    "Stadt": "Rhein-Erft-Kreis"
+  },
+  {
+    "PLZ": 50667,
+    "Stadt": "Köln"
+  },
+  {
+    "PLZ": 51371,
+    "Stadt": "Leverkusen"
+  },
+  {
+    "PLZ": 51570,
+    "Stadt": "Rhein-Sieg-Kreis"
+  },
+  {
+    "PLZ": 51598,
+    "Stadt": "Altenkirchen"
+  },
+  {
+    "PLZ": 52062,
+    "Stadt": "Aachen"
+  },
+  {
+    "PLZ": 52349,
+    "Stadt": "Düren"
+  },
+  {
+    "PLZ": 53111,
+    "Stadt": "Bonn"
+  },
+  {
+    "PLZ": 53424,
+    "Stadt": "Ahrweiler"
+  },
+  {
+    "PLZ": 53539,
+    "Stadt": "Vulkaneifel"
+  },
+  {
+    "PLZ": 53545,
+    "Stadt": "Neuwied"
+  },
+  {
+    "PLZ": 53879,
+    "Stadt": "Euskirchen"
+  },
+  {
+    "PLZ": 54290,
+    "Stadt": "Trier"
+  },
+  {
+    "PLZ": 54298,
+    "Stadt": "Eifelkreis Bitburg-Prüm"
+  },
+  {
+    "PLZ": 54306,
+    "Stadt": "Trier-Saarburg"
+  },
+  {
+    "PLZ": 54347,
+    "Stadt": "Bernkastel-Wittlich"
+  },
+  {
+    "PLZ": 54422,
+    "Stadt": "Birkenfeld"
+  },
+  {
+    "PLZ": 55116,
+    "Stadt": "Mainz"
+  },
+  {
+    "PLZ": 55218,
+    "Stadt": "Mainz-Bingen"
+  },
+  {
+    "PLZ": 55232,
+    "Stadt": "Alzey-Worms"
+  },
+  {
+    "PLZ": 55246,
+    "Stadt": "Wiesbaden"
+  },
+  {
+    "PLZ": 55430,
+    "Stadt": "Rhein-Hunsrück-Kreis"
+  },
+  {
+    "PLZ": 55442,
+    "Stadt": "Bad Kreuznach"
+  },
+  {
+    "PLZ": 56068,
+    "Stadt": "Koblenz"
+  },
+  {
+    "PLZ": 56112,
+    "Stadt": "Rhein-Lahn-Kreis"
+  },
+  {
+    "PLZ": 56170,
+    "Stadt": "Mayen-Koblenz"
+  },
+  {
+    "PLZ": 56203,
+    "Stadt": "Westerwaldkreis"
+  },
+  {
+    "PLZ": 56253,
+    "Stadt": "Cochem-Zell"
+  },
+  {
+    "PLZ": 57072,
+    "Stadt": "Siegen-Wittgenstein"
+  },
+  {
+    "PLZ": 57368,
+    "Stadt": "Olpe"
+  },
+  {
+    "PLZ": 58089,
+    "Stadt": "Hagen"
+  },
+  {
+    "PLZ": 58507,
+    "Stadt": "Märkischer Kreis"
+  },
+  {
+    "PLZ": 58739,
+    "Stadt": "Soest"
+  },
+  {
+    "PLZ": 59063,
+    "Stadt": "Hamm"
+  },
+  {
+    "PLZ": 60306,
+    "Stadt": "Frankfurt am Main"
+  },
+  {
+    "PLZ": 61250,
+    "Stadt": "Hochtaunuskreis"
+  },
+  {
+    "PLZ": 63065,
+    "Stadt": "Offenbach am Main"
+  },
+  {
+    "PLZ": 63110,
+    "Stadt": "Offenbach"
+  },
+  {
+    "PLZ": 63739,
+    "Stadt": "Aschaffenburg"
+  },
+  {
+    "PLZ": 63785,
+    "Stadt": "Miltenberg"
+  },
+  {
+    "PLZ": 64283,
+    "Stadt": "Darmstadt"
+  },
+  {
+    "PLZ": 64319,
+    "Stadt": "Darmstadt-Dieburg"
+  },
+  {
+    "PLZ": 64385,
+    "Stadt": "Odenwaldkreis"
+  },
+  {
+    "PLZ": 64521,
+    "Stadt": "Groß-Gerau"
+  },
+  {
+    "PLZ": 64625,
+    "Stadt": "Bergstraße"
+  },
+  {
+    "PLZ": 65232,
+    "Stadt": "Rheingau-Taunus-Kreis"
+  },
+  {
+    "PLZ": 65239,
+    "Stadt": "Main-Taunus-Kreis"
+  },
+  {
+    "PLZ": 66111,
+    "Stadt": "Saarbrücken"
+  },
+  {
+    "PLZ": 66359,
+    "Stadt": "Saarlouis"
+  },
+  {
+    "PLZ": 66386,
+    "Stadt": "Saarpfalz-Kreis"
+  },
+  {
+    "PLZ": 66482,
+    "Stadt": "Zweibrücken"
+  },
+  {
+    "PLZ": 66484,
+    "Stadt": "Südwestpfalz"
+  },
+  {
+    "PLZ": 66538,
+    "Stadt": "Neunkirchen"
+  },
+  {
+    "PLZ": 66606,
+    "Stadt": "Sankt Wendel"
+  },
+  {
+    "PLZ": 66663,
+    "Stadt": "Merzig-Wadern"
+  },
+  {
+    "PLZ": 66849,
+    "Stadt": "Kaiserslautern"
+  },
+  {
+    "PLZ": 66869,
+    "Stadt": "Kusel"
+  },
+  {
+    "PLZ": 66953,
+    "Stadt": "Pirmasens"
+  },
+  {
+    "PLZ": 67059,
+    "Stadt": "Ludwigshafen am Rhein"
+  },
+  {
+    "PLZ": 67098,
+    "Stadt": "Bad Dürkheim"
+  },
+  {
+    "PLZ": 67122,
+    "Stadt": "Rhein-Pfalz-Kreis"
+  },
+  {
+    "PLZ": 67227,
+    "Stadt": "Frankenthal Pfalz"
+  },
+  {
+    "PLZ": 67292,
+    "Stadt": "Donnersbergkreis"
+  },
+  {
+    "PLZ": 67346,
+    "Stadt": "Speyer"
+  },
+  {
+    "PLZ": 67360,
+    "Stadt": "Germersheim"
+  },
+  {
+    "PLZ": 67377,
+    "Stadt": "Südliche Weinstraße"
+  },
+  {
+    "PLZ": 67433,
+    "Stadt": "Neustadt an der Weinstraße"
+  },
+  {
+    "PLZ": 67547,
+    "Stadt": "Worms"
+  },
+  {
+    "PLZ": 68159,
+    "Stadt": "Mannheim"
+  },
+  {
+    "PLZ": 68526,
+    "Stadt": "Rhein-Neckar-Kreis"
+  },
+  {
+    "PLZ": 68753,
+    "Stadt": "Karlsruhe"
+  },
+  {
+    "PLZ": 69115,
+    "Stadt": "Heidelberg"
+  },
+  {
+    "PLZ": 69427,
+    "Stadt": "Neckar-Odenwald-Kreis"
+  },
+  {
+    "PLZ": 70173,
+    "Stadt": "Stuttgart"
+  },
+  {
+    "PLZ": 70734,
+    "Stadt": "Rems-Murr-Kreis"
+  },
+  {
+    "PLZ": 70771,
+    "Stadt": "Esslingen"
+  },
+  {
+    "PLZ": 70806,
+    "Stadt": "Ludwigsburg"
+  },
+  {
+    "PLZ": 71032,
+    "Stadt": "Böblingen"
+  },
+  {
+    "PLZ": 71292,
+    "Stadt": "Enzkreis"
+  },
+  {
+    "PLZ": 71543,
+    "Stadt": "Heilbronn"
+  },
+  {
+    "PLZ": 72070,
+    "Stadt": "Tübingen"
+  },
+  {
+    "PLZ": 72124,
+    "Stadt": "Reutlingen"
+  },
+  {
+    "PLZ": 72160,
+    "Stadt": "Freudenstadt"
+  },
+  {
+    "PLZ": 72172,
+    "Stadt": "Rottweil"
+  },
+  {
+    "PLZ": 72202,
+    "Stadt": "Calw"
+  },
+  {
+    "PLZ": 72336,
+    "Stadt": "Zollernalbkreis"
+  },
+  {
+    "PLZ": 72419,
+    "Stadt": "Sigmaringen"
+  },
+  {
+    "PLZ": 72535,
+    "Stadt": "Alb-Donau-Kreis"
+  },
+  {
+    "PLZ": 73033,
+    "Stadt": "Göppingen"
+  },
+  {
+    "PLZ": 73430,
+    "Stadt": "Ostalbkreis"
+  },
+  {
+    "PLZ": 74214,
+    "Stadt": "Hohenlohekreis"
+  },
+  {
+    "PLZ": 74405,
+    "Stadt": "Schwäbisch Hall"
+  },
+  {
+    "PLZ": 74744,
+    "Stadt": "Main-Tauber-Kreis"
+  },
+  {
+    "PLZ": 75172,
+    "Stadt": "Pforzheim"
+  },
+  {
+    "PLZ": 76437,
+    "Stadt": "Rastatt"
+  },
+  {
+    "PLZ": 76530,
+    "Stadt": "Baden-Baden"
+  },
+  {
+    "PLZ": 76829,
+    "Stadt": "Landau in der Pfalz"
+  },
+  {
+    "PLZ": 77652,
+    "Stadt": "Ortenaukreis"
+  },
+  {
+    "PLZ": 78048,
+    "Stadt": "Schwarzwald-Baar-Kreis"
+  },
+  {
+    "PLZ": 78187,
+    "Stadt": "Tuttlingen"
+  },
+  {
+    "PLZ": 78224,
+    "Stadt": "Konstanz"
+  },
+  {
+    "PLZ": 78354,
+    "Stadt": "Bodenseekreis"
+  },
+  {
+    "PLZ": 79098,
+    "Stadt": "Freiburg im Breisgau"
+  },
+  {
+    "PLZ": 79183,
+    "Stadt": "Emmendingen"
+  },
+  {
+    "PLZ": 79189,
+    "Stadt": "Breisgau-Hochschwarzwald"
+  },
+  {
+    "PLZ": 79400,
+    "Stadt": "Lörrach"
+  },
+  {
+    "PLZ": 79664,
+    "Stadt": "Waldshut"
+  },
+  {
+    "PLZ": 80331,
+    "Stadt": "München"
+  },
+  {
+    "PLZ": 82057,
+    "Stadt": "Bad Tölz-Wolfratshausen"
+  },
+  {
+    "PLZ": 82110,
+    "Stadt": "Fürstenfeldbruck"
+  },
+  {
+    "PLZ": 82131,
+    "Stadt": "Starnberg"
+  },
+  {
+    "PLZ": 82269,
+    "Stadt": "Landsberg am Lech"
+  },
+  {
+    "PLZ": 82297,
+    "Stadt": "Aichach-Friedberg"
+  },
+  {
+    "PLZ": 82347,
+    "Stadt": "Weilheim-Schongau"
+  },
+  {
+    "PLZ": 82418,
+    "Stadt": "Garmisch-Partenkirchen"
+  },
+  {
+    "PLZ": 83022,
+    "Stadt": "Rosenheim"
+  },
+  {
+    "PLZ": 83119,
+    "Stadt": "Traunstein"
+  },
+  {
+    "PLZ": 83317,
+    "Stadt": "Berchtesgadener Land"
+  },
+  {
+    "PLZ": 83527,
+    "Stadt": "Mühldorf am Inn"
+  },
+  {
+    "PLZ": 83550,
+    "Stadt": "Ebersberg"
+  },
+  {
+    "PLZ": 83607,
+    "Stadt": "Miesbach"
+  },
+  {
+    "PLZ": 84028,
+    "Stadt": "Landshut"
+  },
+  {
+    "PLZ": 84048,
+    "Stadt": "Kelheim"
+  },
+  {
+    "PLZ": 84066,
+    "Stadt": "Straubing-Bogen"
+  },
+  {
+    "PLZ": 84069,
+    "Stadt": "Regensburg"
+  },
+  {
+    "PLZ": 84072,
+    "Stadt": "Freising"
+  },
+  {
+    "PLZ": 84130,
+    "Stadt": "Dingolfing-Landau"
+  },
+  {
+    "PLZ": 84140,
+    "Stadt": "Rottal-Inn"
+  },
+  {
+    "PLZ": 84405,
+    "Stadt": "Erding"
+  },
+  {
+    "PLZ": 84489,
+    "Stadt": "Altötting"
+  },
+  {
+    "PLZ": 85049,
+    "Stadt": "Ingolstadt"
+  },
+  {
+    "PLZ": 85072,
+    "Stadt": "Eichstätt"
+  },
+  {
+    "PLZ": 85077,
+    "Stadt": "Pfaffenhofen an der Ilm"
+  },
+  {
+    "PLZ": 85123,
+    "Stadt": "Neuburg-Schrobenhausen"
+  },
+  {
+    "PLZ": 85221,
+    "Stadt": "Dachau"
+  },
+  {
+    "PLZ": 86150,
+    "Stadt": "Augsburg"
+  },
+  {
+    "PLZ": 86381,
+    "Stadt": "Günzburg"
+  },
+  {
+    "PLZ": 86498,
+    "Stadt": "Unterallgäu"
+  },
+  {
+    "PLZ": 86502,
+    "Stadt": "Dillingen an der Donau"
+  },
+  {
+    "PLZ": 86609,
+    "Stadt": "Donau-Ries"
+  },
+  {
+    "PLZ": 86807,
+    "Stadt": "Ostallgäu"
+  },
+  {
+    "PLZ": 87435,
+    "Stadt": "Kempten Allgäu"
+  },
+  {
+    "PLZ": 87448,
+    "Stadt": "Oberallgäu"
+  },
+  {
+    "PLZ": 87600,
+    "Stadt": "Kaufbeuren"
+  },
+  {
+    "PLZ": 87700,
+    "Stadt": "Memmingen"
+  },
+  {
+    "PLZ": 88131,
+    "Stadt": "Lindau Bodensee"
+  },
+  {
+    "PLZ": 88147,
+    "Stadt": "Ravensburg"
+  },
+  {
+    "PLZ": 88348,
+    "Stadt": "Biberach"
+  },
+  {
+    "PLZ": 89073,
+    "Stadt": "Ulm"
+  },
+  {
+    "PLZ": 89168,
+    "Stadt": "Heidenheim"
+  },
+  {
+    "PLZ": 89231,
+    "Stadt": "Neu-Ulm"
+  },
+  {
+    "PLZ": 90402,
+    "Stadt": "Nürnberg"
+  },
+  {
+    "PLZ": 90513,
+    "Stadt": "Fürth"
+  },
+  {
+    "PLZ": 90518,
+    "Stadt": "Nürnberger Land"
+  },
+  {
+    "PLZ": 90530,
+    "Stadt": "Roth"
+  },
+  {
+    "PLZ": 90542,
+    "Stadt": "Erlangen-Höchstadt"
+  },
+  {
+    "PLZ": 90599,
+    "Stadt": "Ansbach"
+  },
+  {
+    "PLZ": 90602,
+    "Stadt": "Neumarkt in der Oberpfalz"
+  },
+  {
+    "PLZ": 90616,
+    "Stadt": "Neustadt an der Aisch-Bad Windsheim"
+  },
+  {
+    "PLZ": 91052,
+    "Stadt": "Erlangen"
+  },
+  {
+    "PLZ": 91077,
+    "Stadt": "Forchheim"
+  },
+  {
+    "PLZ": 91126,
+    "Stadt": "Schwabach"
+  },
+  {
+    "PLZ": 91249,
+    "Stadt": "Amberg-Sulzbach"
+  },
+  {
+    "PLZ": 91257,
+    "Stadt": "Bayreuth"
+  },
+  {
+    "PLZ": 91281,
+    "Stadt": "Neustadt an der Waldnaab"
+  },
+  {
+    "PLZ": 91332,
+    "Stadt": "Bamberg"
+  },
+  {
+    "PLZ": 91710,
+    "Stadt": "Weißenburg-Gunzenhausen"
+  },
+  {
+    "PLZ": 92224,
+    "Stadt": "Amberg"
+  },
+  {
+    "PLZ": 92269,
+    "Stadt": "Schwandorf"
+  },
+  {
+    "PLZ": 92444,
+    "Stadt": "Cham"
+  },
+  {
+    "PLZ": 92637,
+    "Stadt": "Weiden in der Oberpfalz"
+  },
+  {
+    "PLZ": 92681,
+    "Stadt": "Tirschenreuth"
+  },
+  {
+    "PLZ": 93471,
+    "Stadt": "Regen"
+  },
+  {
+    "PLZ": 94032,
+    "Stadt": "Passau"
+  },
+  {
+    "PLZ": 94065,
+    "Stadt": "Freyung-Grafenau"
+  },
+  {
+    "PLZ": 94315,
+    "Stadt": "Straubing"
+  },
+  {
+    "PLZ": 94447,
+    "Stadt": "Deggendorf"
+  },
+  {
+    "PLZ": 95028,
+    "Stadt": "Hof"
+  },
+  {
+    "PLZ": 95100,
+    "Stadt": "Wunsiedel im Fichtelgebirge"
+  },
+  {
+    "PLZ": 95326,
+    "Stadt": "Kulmbach"
+  },
+  {
+    "PLZ": 96106,
+    "Stadt": "Haßberge"
+  },
+  {
+    "PLZ": 96145,
+    "Stadt": "Coburg"
+  },
+  {
+    "PLZ": 96160,
+    "Stadt": "Kitzingen"
+  },
+  {
+    "PLZ": 96215,
+    "Stadt": "Lichtenfels"
+  },
+  {
+    "PLZ": 96268,
+    "Stadt": "Kronach"
+  },
+  {
+    "PLZ": 96515,
+    "Stadt": "Sonneberg"
+  },
+  {
+    "PLZ": 97070,
+    "Stadt": "Würzburg"
+  },
+  {
+    "PLZ": 97225,
+    "Stadt": "Main-Spessart"
+  },
+  {
+    "PLZ": 97421,
+    "Stadt": "Schweinfurt"
+  },
+  {
+    "PLZ": 97517,
+    "Stadt": "Bad Kissingen"
+  },
+  {
+    "PLZ": 97528,
+    "Stadt": "Rhön-Grabfeld"
+  },
+  {
+    "PLZ": 98527,
+    "Stadt": "Suhl"
+  },
+  {
+    "PLZ": 98530,
+    "Stadt": "Hildburghausen"
+  },
+  {
+    "PLZ": 98544,
+    "Stadt": "Schmalkalden-Meiningen"
+  },
+  {
+    "PLZ": 98559,
+    "Stadt": "Ilm-Kreis"
+  },
+  {
+    "PLZ": 99084,
+    "Stadt": "Erfurt"
+  },
+  {
+    "PLZ": 99100,
+    "Stadt": "Gotha"
+  },
+  {
+    "PLZ": 99189,
+    "Stadt": "Sömmerda"
+  },
+  {
+    "PLZ": 99423,
+    "Stadt": "Weimar"
+  },
+  {
+    "PLZ": 99428,
+    "Stadt": "Weimarer Land"
+  },
+  {
+    "PLZ": 99734,
+    "Stadt": "Nordhausen"
+  },
+  {
+    "PLZ": 99817,
+    "Stadt": "Eisenach"
+  },
+  {
+    "PLZ": 99947,
+    "Stadt": "Unstrut-Hainich-Kreis"
+  }
+ ]
